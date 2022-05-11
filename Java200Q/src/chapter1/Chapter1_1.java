@@ -1,3 +1,5 @@
+package chapter1;
+
 public class Chapter1_1 {
     public static void main(String[] args) {
         // 화면에 출력을 지시하는 프로그램

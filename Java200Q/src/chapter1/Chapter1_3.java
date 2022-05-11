@@ -1,3 +1,5 @@
+package chapter1;
+
 public class Chapter1_3 {
     public static void main(String[] args) {
         // 한 줄에 출력

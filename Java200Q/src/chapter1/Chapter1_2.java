@@ -1,3 +1,5 @@
+package chapter1;
+
 public class Chapter1_2 {
     public static void main(String[] args) {
         // 세미콜론 없이 출력
