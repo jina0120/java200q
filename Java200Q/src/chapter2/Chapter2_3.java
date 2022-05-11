@@ -3,8 +3,9 @@ package chapter2;
 public class Chapter2_3 {
     public static void main(String[] args) {
         // 2_2 와 동일한 프로그램에 실숫값을 대입하여 결과 확인
-        int x;
-        int y;
+        // 정상 출력을 위해 수정
+        double x;
+        double y;
 
         // int 변수에 실수를 넣어 에러 발생
         x = 63.4;
