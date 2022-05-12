@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Chapter2_12 {
     public static void main(String[] args) {
-        // 키보드에서 입력한 값의 +5 or -5 범위의 랜덤 정숫값 생성
+        // 키보드에서 입력한 값의 +5 or -5 범위 사이의 랜덤 정숫값 생성
         Scanner scn = new Scanner(System.in);
         Random rd = new Random();
 
