@@ -11,9 +11,14 @@ public class Chapter4_7 {
         System.out.println("몇개의 *을 표시할까? : ");
         int x = scn.nextInt();
 
-        while (x > 0) {
-            System.out.print("*");
-            x--;
+        if (x == 0) {
+            System.out.print("");
+        } else {
+            while (x > 0) {
+                System.out.print("*");
+                x--;
+            }
+            System.out.println();
         }
     }
 }
