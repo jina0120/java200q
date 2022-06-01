@@ -2,7 +2,7 @@ package chapter4;
 
 import java.util.Scanner;
 
-public class Chpater4_21 {
+public class Chapter4_21 {
     public static void main(String[] args) {
         // *을 나열해서 n단의 정방형을 표시하는 프로그램
         Scanner scn = new Scanner(System.in);
